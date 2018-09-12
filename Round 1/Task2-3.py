@@ -1,0 +1,1 @@
+print ("Distance between ("+str(x1)+", "+str(y1)+") and ("+str(x2)+", "+str(y2)+") is "+str((((x1-x2)*(x1-x2)+(y2-y1)*(y2-y1))**0.5)))
