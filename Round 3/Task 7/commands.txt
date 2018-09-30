@@ -1,0 +1,15 @@
+rates
+read rates.txt
+rates
+5 dkk sek
+8 aud usd
+1 aud 0.5935 eur
+8 aud usd
+5 usd aud
+0.6959 EUR 1 AUD
+5 usd aud
+rates
+write new_rates.txt
+135 gbp eur
+1500 eur rub
+quit

@@ -1,0 +1,65 @@
+Give a command: rates
+No rates defined yet!
+Give a command: read rates.txt
+Give a command: rates
+1.0	DKK	0.1279	EUR
+0.1432	EUR	1.0	DKK
+1.1981	EUR	1.0	GBP
+0.1488	EUR	1.0	HRK
+0.3286	EUR	100.0	HUF
+0.1145	EUR	1.0	NOK
+1.4963	EUR	100.0	RUB
+0.1019	EUR	1.0	SEK
+2.8242	EUR	100.0	THB
+0.2045	EUR	1.0	TRY
+0.9039	EUR	1.0	USD
+1.0	GBP	1.0802	EUR
+1.0	HRK	0.1226	EUR
+100.0	HUF	0.2853	EUR
+1.0	NOK	0.1012	EUR
+100.0	RUB	1.2301	EUR
+1.0	SEK	0.0924	EUR
+100.0	THB	2.4158	EUR
+1.0	TRY	0.1637	EUR
+1.0	USD	0.8355	EUR
+Give a command: 5 dkk sek
+5.0 DKK = 6.28 SEK
+Give a command: 8 aud usd
+No AUD-USD rate available!
+Give a command: 1 aud 0.5935 eur
+Give a command: 8 aud usd
+8.0 AUD = 5.25 USD
+Give a command: 5 usd aud
+No USD-AUD rate available!
+Give a command: 0.6959 EUR 1 AUD
+Give a command: 5 usd aud
+5.0 USD = 6.00 AUD
+Give a command: rates
+1.0	AUD	0.5935	EUR
+1.0	DKK	0.1279	EUR
+0.6959	EUR	1.0	AUD
+0.1432	EUR	1.0	DKK
+1.1981	EUR	1.0	GBP
+0.1488	EUR	1.0	HRK
+0.3286	EUR	100.0	HUF
+0.1145	EUR	1.0	NOK
+1.4963	EUR	100.0	RUB
+0.1019	EUR	1.0	SEK
+2.8242	EUR	100.0	THB
+0.2045	EUR	1.0	TRY
+0.9039	EUR	1.0	USD
+1.0	GBP	1.0802	EUR
+1.0	HRK	0.1226	EUR
+100.0	HUF	0.2853	EUR
+1.0	NOK	0.1012	EUR
+100.0	RUB	1.2301	EUR
+1.0	SEK	0.0924	EUR
+100.0	THB	2.4158	EUR
+1.0	TRY	0.1637	EUR
+1.0	USD	0.8355	EUR
+Give a command: write new_rates.txt
+Give a command: 135 gbp eur
+135.0 GBP = 145.83 EUR
+Give a command: 1500 eur rub
+1500.0 EUR = 100247.28 RUB
+Give a command: quit
