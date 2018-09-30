@@ -1,0 +1,40 @@
+Malaysia	127,316
+Paraguay	157,046
+Azerbaijan	33,436
+Myanmar (Burma)	261,969
+Togo	21,925
+Belarus	80,154
+Qatar	4,416
+Estonia	17,462
+Mauritania	397,953
+Greece	50,942
+Afghanistan	250,000
+India	1,269,338
+Singapore	267
+Monaco	1
+South Africa	471,008
+Lithuania	25,174
+Saint Lucia	238
+Turkmenistan	188,455
+Taiwan	13,892
+Saudi Arabia	756,981
+Lebanon	4,015
+Ecuador	109,483
+Canada	3,855,081
+Costa Rica	19,730
+Suriname	63,039
+New Zealand	103,737
+Oman	82031
+Gabon	103,346
+Bolivia	424,162
+Kosovo	4,211
+Guyana	83,000
+Czech Republic	30,450
+Kazakhstan	1,049,150
+China	3,705,386
+Israel	8,019
+Antigua and Barbuda	171
+Bulgaria	42,822
+United Kingdom	94,525
+Vatican City	0.17
+Zambia	290,584
