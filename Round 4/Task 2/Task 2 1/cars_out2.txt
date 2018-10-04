@@ -1,0 +1,623 @@
+All cars:
+Make: Volvo
+Model: S80
+Year: 2017
+Mileage: 95986
+
+Make: Bmw
+Model: 520I
+Year: 2014
+Mileage: 160936
+
+Make: Ford
+Model: Focus
+Year: 2007
+Mileage: 66112
+
+Make: Volkswagen
+Model: Golf
+Year: 2010
+Mileage: 201291
+
+Make: Opel
+Model: Astra-G-Cc
+Year: 2001
+Mileage: 148644
+
+Make: Toyota
+Model: Starlet
+Year: 1997
+Mileage: 66000
+
+Make: Nissan
+Model: Primera
+Year: 2005
+Mileage: 103307
+
+Make: Audi
+Model: A6
+Year: 2010
+Mileage: 110122
+
+Make: Ford
+Model: Focus
+Year: 2004
+Mileage: 127859
+
+Make: Volvo
+Model: S60
+Year: 2012
+Mileage: 33437
+
+Make: Peugeot
+Model: 206
+Year: 2002
+Mileage: 142624
+
+Make: Toyota
+Model: Corolla
+Year: 1997
+Mileage: 124801
+
+Make: Toyota
+Model: Avensis
+Year: 2011
+Mileage: 58813
+
+Make: Nissan
+Model: Primera
+Year: 2002
+Mileage: 111607
+
+Make: Peugeot
+Model: 308
+Year: 2008
+Mileage: 76661
+
+Make: Ford
+Model: Focus
+Year: 2000
+Mileage: 248064
+
+Make: Mercedes-Benz
+Model: E 200 Cdi
+Year: 2010
+Mileage: 112497
+
+Make: Volvo
+Model: V60
+Year: 2011
+Mileage: 47000
+
+Make: Toyota
+Model: 4D Corolla Hatchback 1.6 Automatic
+Year: 2008
+Mileage: 179376
+
+Make: Ford
+Model: Mondeo
+Year: 2015
+Mileage: 84668
+
+Make: Toyota
+Model: Avensis
+Year: 2013
+Mileage: 192489
+
+Make: Mercedes-Benz
+Model: C 30 Cdi Amg
+Year: 2017
+Mileage: 200108
+
+Make: Ford
+Model: Mondeo
+Year: 2017
+Mileage: 159987
+
+Make: Nissan
+Model: Sunny
+Year: 1992
+Mileage: 269707
+
+Make: Bmw
+Model: 320I Xdrive
+Year: 2014
+Mileage: 72055
+
+Make: Ford
+Model: Fiesta
+Year: 2011
+Mileage: 41670
+
+Make: Nissan
+Model: Almera
+Year: 2002
+Mileage: 150471
+
+Make: Peugeot
+Model: 206
+Year: 2005
+Mileage: 113306
+
+Make: Peugeot
+Model: 206
+Year: 2000
+Mileage: 167139
+
+Make: Toyota
+Model: Corolla
+Year: 2004
+Mileage: 174183
+
+Make: Volvo
+Model: V70
+Year: 2002
+Mileage: 196658
+
+Make: Peugeot
+Model: 307
+Year: 2004
+Mileage: 104459
+
+Make: Ford
+Model: Focus
+Year: 2002
+Mileage: 387559
+
+Make: Ford
+Model: Focus C-Max
+Year: 2004
+Mileage: 204906
+
+Make: Audi
+Model: Q5
+Year: 2012
+Mileage: 34556
+
+Make: Volvo
+Model: V40
+Year: 2000
+Mileage: 134000
+
+Make: Volvo
+Model: Xc60
+Year: 2015
+Mileage: 40307
+
+Make: Ford
+Model: Focus
+Year: 1999
+Mileage: 221685
+
+Make: Volvo
+Model: S60
+Year: 2005
+Mileage: 319026
+
+Make: Ford
+Model: Focus
+Year: 2007
+Mileage: 91761
+
+Make: Bmw
+Model: 520D
+Year: 2014
+Mileage: 185000
+
+Make: Volkswagen
+Model: Passat
+Year: 2014
+Mileage: 98434
+
+Make: Volkswagen
+Model: Transporter
+Year: 2011
+Mileage: 315582
+
+Make: Ford
+Model: Focus
+Year: 2003
+Mileage: 119723
+
+Make: Bmw
+Model: 320D
+Year: 2008
+Mileage: 204313
+
+Make: Volkswagen
+Model: Golf
+Year: 2007
+Mileage: 96215
+
+Make: Toyota
+Model: Yaris
+Year: 2006
+Mileage: 56214
+
+Make: Mercedes-Benz
+Model: C 200 Kompressor
+Year: 2013
+Mileage: 75554
+
+Make: Volvo
+Model: Xc70
+Year: 2014
+Mileage: 86798
+
+Make: Volvo
+Model: V40
+Year: 2003
+Mileage: 179962
+
+All cars by year:
+Make: Ford
+Model: Mondeo
+Year: 2017
+Mileage: 159987
+
+Make: Mercedes-Benz
+Model: C 30 Cdi Amg
+Year: 2017
+Mileage: 200108
+
+Make: Volvo
+Model: S80
+Year: 2017
+Mileage: 95986
+
+Make: Ford
+Model: Mondeo
+Year: 2015
+Mileage: 84668
+
+Make: Volvo
+Model: Xc60
+Year: 2015
+Mileage: 40307
+
+Make: Bmw
+Model: 320I Xdrive
+Year: 2014
+Mileage: 72055
+
+Make: Bmw
+Model: 520D
+Year: 2014
+Mileage: 185000
+
+Make: Bmw
+Model: 520I
+Year: 2014
+Mileage: 160936
+
+Make: Volkswagen
+Model: Passat
+Year: 2014
+Mileage: 98434
+
+Make: Volvo
+Model: Xc70
+Year: 2014
+Mileage: 86798
+
+Make: Mercedes-Benz
+Model: C 200 Kompressor
+Year: 2013
+Mileage: 75554
+
+Make: Toyota
+Model: Avensis
+Year: 2013
+Mileage: 192489
+
+Make: Audi
+Model: Q5
+Year: 2012
+Mileage: 34556
+
+Make: Volvo
+Model: S60
+Year: 2012
+Mileage: 33437
+
+Make: Ford
+Model: Fiesta
+Year: 2011
+Mileage: 41670
+
+Make: Toyota
+Model: Avensis
+Year: 2011
+Mileage: 58813
+
+Make: Volkswagen
+Model: Transporter
+Year: 2011
+Mileage: 315582
+
+Make: Volvo
+Model: V60
+Year: 2011
+Mileage: 47000
+
+Make: Audi
+Model: A6
+Year: 2010
+Mileage: 110122
+
+Make: Mercedes-Benz
+Model: E 200 Cdi
+Year: 2010
+Mileage: 112497
+
+Make: Volkswagen
+Model: Golf
+Year: 2010
+Mileage: 201291
+
+Make: Bmw
+Model: 320D
+Year: 2008
+Mileage: 204313
+
+Make: Peugeot
+Model: 308
+Year: 2008
+Mileage: 76661
+
+Make: Toyota
+Model: 4D Corolla Hatchback 1.6 Automatic
+Year: 2008
+Mileage: 179376
+
+Make: Ford
+Model: Focus
+Year: 2007
+Mileage: 66112
+
+Make: Ford
+Model: Focus
+Year: 2007
+Mileage: 91761
+
+Make: Volkswagen
+Model: Golf
+Year: 2007
+Mileage: 96215
+
+Make: Toyota
+Model: Yaris
+Year: 2006
+Mileage: 56214
+
+Make: Nissan
+Model: Primera
+Year: 2005
+Mileage: 103307
+
+Make: Peugeot
+Model: 206
+Year: 2005
+Mileage: 113306
+
+Make: Volvo
+Model: S60
+Year: 2005
+Mileage: 319026
+
+Make: Ford
+Model: Focus
+Year: 2004
+Mileage: 127859
+
+Make: Ford
+Model: Focus C-Max
+Year: 2004
+Mileage: 204906
+
+Make: Peugeot
+Model: 307
+Year: 2004
+Mileage: 104459
+
+Make: Toyota
+Model: Corolla
+Year: 2004
+Mileage: 174183
+
+Make: Ford
+Model: Focus
+Year: 2003
+Mileage: 119723
+
+Make: Volvo
+Model: V40
+Year: 2003
+Mileage: 179962
+
+Make: Ford
+Model: Focus
+Year: 2002
+Mileage: 387559
+
+Make: Nissan
+Model: Almera
+Year: 2002
+Mileage: 150471
+
+Make: Nissan
+Model: Primera
+Year: 2002
+Mileage: 111607
+
+Make: Peugeot
+Model: 206
+Year: 2002
+Mileage: 142624
+
+Make: Volvo
+Model: V70
+Year: 2002
+Mileage: 196658
+
+Make: Opel
+Model: Astra-G-Cc
+Year: 2001
+Mileage: 148644
+
+Make: Ford
+Model: Focus
+Year: 2000
+Mileage: 248064
+
+Make: Peugeot
+Model: 206
+Year: 2000
+Mileage: 167139
+
+Make: Volvo
+Model: V40
+Year: 2000
+Mileage: 134000
+
+Make: Ford
+Model: Focus
+Year: 1999
+Mileage: 221685
+
+Make: Toyota
+Model: Corolla
+Year: 1997
+Mileage: 124801
+
+Make: Toyota
+Model: Starlet
+Year: 1997
+Mileage: 66000
+
+Make: Nissan
+Model: Sunny
+Year: 1992
+Mileage: 269707
+
+Filtered cars:
+Make: Audi
+Model: A6
+Year: 2010
+Mileage: 110122
+
+Make: Bmw
+Model: 520D
+Year: 2014
+Mileage: 185000
+
+Make: Bmw
+Model: 520I
+Year: 2014
+Mileage: 160936
+
+Make: Ford
+Model: Focus
+Year: 2003
+Mileage: 119723
+
+Make: Ford
+Model: Focus
+Year: 2004
+Mileage: 127859
+
+Make: Ford
+Model: Focus
+Year: 2007
+Mileage: 91761
+
+Make: Mercedes-Benz
+Model: E 200 Cdi
+Year: 2010
+Mileage: 112497
+
+Make: Nissan
+Model: Almera
+Year: 2002
+Mileage: 150471
+
+Make: Nissan
+Model: Primera
+Year: 2002
+Mileage: 111607
+
+Make: Nissan
+Model: Primera
+Year: 2005
+Mileage: 103307
+
+Make: Opel
+Model: Astra-G-Cc
+Year: 2001
+Mileage: 148644
+
+Make: Peugeot
+Model: 206
+Year: 2000
+Mileage: 167139
+
+Make: Peugeot
+Model: 206
+Year: 2002
+Mileage: 142624
+
+Make: Peugeot
+Model: 206
+Year: 2005
+Mileage: 113306
+
+Make: Peugeot
+Model: 307
+Year: 2004
+Mileage: 104459
+
+Make: Toyota
+Model: 4D Corolla Hatchback 1.6 Automatic
+Year: 2008
+Mileage: 179376
+
+Make: Toyota
+Model: Avensis
+Year: 2013
+Mileage: 192489
+
+Make: Toyota
+Model: Corolla
+Year: 2004
+Mileage: 174183
+
+Make: Volkswagen
+Model: Golf
+Year: 2007
+Mileage: 96215
+
+Make: Volkswagen
+Model: Passat
+Year: 2014
+Mileage: 98434
+
+Make: Volvo
+Model: V40
+Year: 2000
+Mileage: 134000
+
+Make: Volvo
+Model: V40
+Year: 2003
+Mileage: 179962
+
+Make: Volvo
+Model: V70
+Year: 2002
+Mileage: 196658
+
+Make: Volvo
+Model: Xc70
+Year: 2014
+Mileage: 86798
+

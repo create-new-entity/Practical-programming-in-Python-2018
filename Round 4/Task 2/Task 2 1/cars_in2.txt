@@ -1,0 +1,50 @@
+Volvo;S80;95986.0;2017
+Bmw;520I;160936.0;2014
+Ford;Focus;66112.0;2007
+Volkswagen;Golf;201291.0;2010
+Opel;Astra-G-Cc;148644.0;2001
+Toyota;Starlet;66000.0;1997
+Nissan;Primera;103307.0;2005
+Audi;A6;110122.0;2010
+Ford;Focus;127859.0;2004
+Volvo;S60;33437.0;2012
+Peugeot;206;142624.0;2002
+Toyota;Corolla;124801.0;1997
+Toyota;Avensis;58813.0;2011
+Nissan;Primera;111607.0;2002
+Peugeot;308;76661.0;2008
+Ford;Focus;248064.0;2000
+Mercedes-Benz;E 200 Cdi;112497.0;2010
+Volvo;V60;47000.0;2011
+Toyota;4D Corolla Hatchback 1.6 Automatic;179376.0;2008
+Ford;Mondeo;84668.0;2015
+Toyota;Avensis;192489.0;2013
+Mercedes-Benz;C 30 Cdi Amg;200108.0;2017
+Ford;Mondeo;159987.0;2017
+Nissan;Sunny;269707.0;1992
+Bmw;320I Xdrive;72055.0;2014
+Ford;Fiesta;41670.0;2011
+Nissan;Almera;150471.0;2002
+Peugeot;206;113306.0;2005
+Peugeot;206;167139.0;2000
+Toyota;Corolla;174183.0;2004
+Volvo;V70;196658.0;2002
+Peugeot;307;104459.0;2004
+Ford;Focus;387559.0;2002
+Ford;Focus C-Max;204906.0;2004
+Audi;Q5;34556.0;2012
+Volvo;V40;134000.0;2000
+Volvo;Xc60;40307.0;2015
+Ford;Focus;221685.0;1999
+Volvo;S60;319026.0;2005
+Ford;Focus;91761.0;2007
+Bmw;520D;185000.0;2014
+Volkswagen;Passat;98434.0;2014
+Volkswagen;Transporter;315582.0;2011
+Ford;Focus;119723.0;2003
+Bmw;320D;204313.0;2008
+Volkswagen;Golf;96215.0;2007
+Toyota;Yaris;56214.0;2006
+Mercedes-Benz;C 200 Kompressor;75554.0;2013
+Volvo;Xc70;86798.0;2014
+Volvo;V40;179962.0;2003

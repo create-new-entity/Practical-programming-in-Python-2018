@@ -1,0 +1,118 @@
+All cars:
+Make: Ford
+Model: Mondeo
+Year: 2008
+Mileage: 222260
+
+Make: Toyota
+Model: Rav4
+Year: 1997
+Mileage: 115780
+
+Make: Volvo
+Model: 960
+Year: 1995
+Mileage: 365064
+
+Make: Toyota
+Model: Corolla
+Year: 2010
+Mileage: 32698
+
+Make: Bmw
+Model: 520I
+Year: 2004
+Mileage: 173314
+
+Make: Toyota
+Model: Corolla
+Year: 1995
+Mileage: 301091
+
+Make: Volkswagen
+Model: Golf
+Year: 2008
+Mileage: 256000
+
+Make: Audi
+Model: A4
+Year: 2014
+Mileage: 185723
+
+Make: Nissan
+Model: Qashqai+2
+Year: 2011
+Mileage: 58129
+
+Make: Nissan
+Model: Qashqai
+Year: 2010
+Mileage: 62151
+
+All cars by year:
+Make: Audi
+Model: A4
+Year: 2014
+Mileage: 185723
+
+Make: Nissan
+Model: Qashqai+2
+Year: 2011
+Mileage: 58129
+
+Make: Nissan
+Model: Qashqai
+Year: 2010
+Mileage: 62151
+
+Make: Toyota
+Model: Corolla
+Year: 2010
+Mileage: 32698
+
+Make: Ford
+Model: Mondeo
+Year: 2008
+Mileage: 222260
+
+Make: Volkswagen
+Model: Golf
+Year: 2008
+Mileage: 256000
+
+Make: Bmw
+Model: 520I
+Year: 2004
+Mileage: 173314
+
+Make: Toyota
+Model: Rav4
+Year: 1997
+Mileage: 115780
+
+Make: Toyota
+Model: Corolla
+Year: 1995
+Mileage: 301091
+
+Make: Volvo
+Model: 960
+Year: 1995
+Mileage: 365064
+
+Filtered cars:
+Make: Bmw
+Model: 520I
+Year: 2004
+Mileage: 173314
+
+Make: Ford
+Model: Mondeo
+Year: 2008
+Mileage: 222260
+
+Make: Toyota
+Model: Rav4
+Year: 1997
+Mileage: 115780
+
