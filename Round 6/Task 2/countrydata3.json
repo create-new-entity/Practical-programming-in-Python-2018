@@ -1,0 +1,242 @@
+[
+   {
+      "area": 250000.0,
+      "country": "Afghanistan",
+      "gdp_per_capita": 1889,
+      "population": 29835392
+   },
+   {
+      "area": 171.0,
+      "country": "Antigua and Barbuda",
+      "gdp_per_capita": 26198,
+      "population": 87884
+   },
+   {
+      "area": 33436.0,
+      "country": "Azerbaijan",
+      "gdp_per_capita": 17433,
+      "population": 8372373
+   },
+   {
+      "area": 80154.0,
+      "country": "Belarus",
+      "gdp_per_capita": 18616,
+      "population": 9577552
+   },
+   {
+      "area": 424162.0,
+      "country": "Bolivia",
+      "gdp_per_capita": 7543,
+      "population": 10118683
+   },
+   {
+      "area": 42822.0,
+      "country": "Bulgaria",
+      "gdp_per_capita": 21578,
+      "population": 7093635
+   },
+   {
+      "area": 3855081.0,
+      "country": "Canada",
+      "gdp_per_capita": 48141,
+      "population": 34030589
+   },
+   {
+      "area": 3705386.0,
+      "country": "China",
+      "gdp_per_capita": 16624,
+      "population": 1336718015
+   },
+   {
+      "area": 19730.0,
+      "country": "Costa Rica",
+      "gdp_per_capita": 17149,
+      "population": 4576562
+   },
+   {
+      "area": 30450.0,
+      "country": "Czech Republic",
+      "gdp_per_capita": 35223,
+      "population": 10190213
+   },
+   {
+      "area": 109483.0,
+      "country": "Ecuador",
+      "gdp_per_capita": 11234,
+      "population": 15007343
+   },
+   {
+      "area": 17462.0,
+      "country": "Estonia",
+      "gdp_per_capita": 31473,
+      "population": 1282963
+   },
+   {
+      "area": 103346.0,
+      "country": "Gabon",
+      "gdp_per_capita": 19266,
+      "population": 1576665
+   },
+   {
+      "area": 50942.0,
+      "country": "Greece",
+      "gdp_per_capita": 27776,
+      "population": 10760136
+   },
+   {
+      "area": 83000.0,
+      "country": "Guyana",
+      "gdp_per_capita": 8266,
+      "population": 744768
+   },
+   {
+      "area": 1269338.0,
+      "country": "India",
+      "gdp_per_capita": 7174,
+      "population": 1189172906
+   },
+   {
+      "area": 8019.0,
+      "country": "Israel",
+      "gdp_per_capita": 36250,
+      "population": 7473052
+   },
+   {
+      "area": 1049150.0,
+      "country": "Kazakhstan",
+      "gdp_per_capita": 26071,
+      "population": 15522373
+   },
+   {
+      "area": 4211.0,
+      "country": "Kosovo",
+      "gdp_per_capita": 12003,
+      "population": 1825632
+   },
+   {
+      "area": 4015.0,
+      "country": "Lebanon",
+      "gdp_per_capita": 19486,
+      "population": 4143101
+   },
+   {
+      "area": 25174.0,
+      "country": "Lithuania",
+      "gdp_per_capita": 31935,
+      "population": 3535547
+   },
+   {
+      "area": 127316.0,
+      "country": "Malaysia",
+      "gdp_per_capita": 28871,
+      "population": 28728607
+   },
+   {
+      "area": 397953.0,
+      "country": "Mauritania",
+      "gdp_per_capita": 4474,
+      "population": 3281634
+   },
+   {
+      "area": 1.0,
+      "country": "Monaco",
+      "gdp_per_capita": "N/A",
+      "population": 30539
+   },
+   {
+      "area": 261969.0,
+      "country": "Myanmar (Burma)",
+      "gdp_per_capita": "N/A",
+      "population": 53999804
+   },
+   {
+      "area": 103737.0,
+      "country": "New Zealand",
+      "gdp_per_capita": 38502,
+      "population": 4290347
+   },
+   {
+      "area": 82031.0,
+      "country": "Oman",
+      "gdp_per_capita": 45464,
+      "population": 3027959
+   },
+   {
+      "area": 157046.0,
+      "country": "Paraguay",
+      "gdp_per_capita": 9785,
+      "population": 6459058
+   },
+   {
+      "area": 4416.0,
+      "country": "Qatar",
+      "gdp_per_capita": 124927,
+      "population": 848016
+   },
+   {
+      "area": 238.0,
+      "country": "Saint Lucia",
+      "gdp_per_capita": 13579,
+      "population": 161557
+   },
+   {
+      "area": 756981.0,
+      "country": "Saudi Arabia",
+      "gdp_per_capita": 55263,
+      "population": 26131703
+   },
+   {
+      "area": 267.0,
+      "country": "Singapore",
+      "gdp_per_capita": 90531,
+      "population": 4740737
+   },
+   {
+      "area": 471008.0,
+      "country": "South Africa",
+      "gdp_per_capita": 13403,
+      "population": 49004031
+   },
+   {
+      "area": 63039.0,
+      "country": "Suriname",
+      "gdp_per_capita": 13876,
+      "population": 491989
+   },
+   {
+      "area": 13892.0,
+      "country": "Taiwan",
+      "gdp_per_capita": 49827,
+      "population": 23071779
+   },
+   {
+      "area": 21925.0,
+      "country": "Togo",
+      "gdp_per_capita": 1612,
+      "population": 6771993
+   },
+   {
+      "area": 188455.0,
+      "country": "Turkmenistan",
+      "gdp_per_capita": 18680,
+      "population": 4997503
+   },
+   {
+      "area": 94525.0,
+      "country": "United Kingdom",
+      "gdp_per_capita": 43620,
+      "population": 62698362
+   },
+   {
+      "area": 0.17,
+      "country": "Vatican City",
+      "gdp_per_capita": "N/A",
+      "population": 832
+   },
+   {
+      "area": 290584.0,
+      "country": "Zambia",
+      "gdp_per_capita": 3997,
+      "population": 13881336
+   }
+]

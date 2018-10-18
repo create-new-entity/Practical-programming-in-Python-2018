@@ -1,0 +1,192 @@
+1	 Qatar	124,927
+—	 Macau	114,430
+2	 Luxembourg	109,192
+3	 Singapore	90,531
+4	 Brunei	76,743
+5	 Ireland	72,632
+6	 Norway	70,590
+7	 Kuwait	69,669
+8	 United Arab Emirates	68,245
+9	  Switzerland	61,360
+—	 Hong Kong	61,016
+10	 San Marino	60,359
+11	 United States	59,495
+12	 Saudi Arabia	55,263
+13	 Netherlands	53,582
+14	 Iceland	52,150
+15	 Bahrain	51,846
+16	 Sweden	51,264
+17	 Germany	50,206
+18	 Australia	49,882
+19	 Taiwan	49,827
+20	 Denmark	49,613
+21	 Austria	49,247
+22	 Canada	48,141
+23	 Belgium	46,301
+24	 Oman	45,464
+25	 Finland	44,050
+26	 United Kingdom	43,620
+27	 France	43,550
+28	 Japan	42,659
+29	 Malta	42,532
+30	 South Korea	39,387
+31	 New Zealand	38,502
+32	 Spain	38,171
+33	 Italy	37,970
+—	 Puerto Rico	37,895
+34	 Cyprus	36,557
+35	 Israel	36,250
+36	 Czech Republic	35,223
+37	 Equatorial Guinea	34,865
+38	 Slovenia	34,063
+39	 Slovakia	32,895
+40	 Lithuania	31,935
+41	 Estonia	31,473
+42	 Trinidad and Tobago	31,154
+43	 Portugal	30,258
+44	 Poland	29,251
+45	 Hungary	28,910
+46	 Malaysia	28,871
+47	 Seychelles	28,712
+48	 Russia	27,890
+49	 Greece	27,776
+50	 Latvia	27,291
+51	 Saint Kitts and Nevis	26,849
+52	 Antigua and Barbuda	26,198
+53	 Turkey	26,453
+54	 Kazakhstan	26,071
+55	 Bahamas, The	25,080
+56	 Chile	24,588
+57	 Panama	24,262
+58	 Croatia	24,095
+59	 Romania	23,991
+60	 Uruguay	22,445
+61	 Mauritius	21,628
+62	 Bulgaria	21,578
+63	 Argentina	20,677
+64	 Iran	20,030
+65	 Mexico	19,480
+66	 Lebanon	19,486
+67	 Gabon	19,266
+68	 Maldives	19,178
+69	 Turkmenistan	18,680
+70	 Belarus	18,616
+71	 Botswana	18,146
+72	 Thailand	17,786
+73	 Barbados	17,508
+74	 Montenegro	17,439
+75	 Azerbaijan	17,433
+76	 Costa Rica	17,149
+77	 Iraq	17,004
+78	 Dominican Republic	16,965
+—	 World[n 1]	16,779
+79	 China	16,624
+80	 Palau	16,472
+81	 Brazil	15,500
+82	 Macedonia	15,203
+83	 Serbia	15,164
+84	 Algeria	15,150
+85	 Grenada	14,779
+86	 Colombia	14,455
+87	 Suriname	13,876
+88	 Saint Lucia	13,579
+89	 South Africa	13,403
+90	 Peru	13,342
+91	 Sri Lanka	13,001
+92	 Egypt	12,994
+93	 Mongolia	12,551
+94	 Jordan	12,487
+95	 Albania	12,472
+96	 Venezuela	12,388
+97	 Indonesia	12,378
+98	 Dominica	12,035
+—	 Kosovo	12,003
+99	 Nauru	11,995
+100	 Tunisia	11,987
+101	 Saint Vincent and the Grenadines	11,623
+102	 Namibia	11,528
+103	 Bosnia and Herzegovina	11,404
+104	 Ecuador	11,234
+105	 Georgia	10,644
+106	 Swaziland	9,882
+107	 Fiji	9,857
+108	 Libya	9,792
+109	 Paraguay	9,785
+110	 Jamaica	9,212
+111	 Armenia	9,098
+112	 El Salvador	8,934
+113	 Bhutan	8,720
+114	 Ukraine	8,656
+115	 Morocco	8,612
+116	 Belize	8,341
+117	 Guyana	8,266
+118	 Philippines	8,229
+119	 Guatemala	8,173
+120	 Bolivia	7,543
+121	 Laos	7,367
+122	 India	7,174
+123	 Uzbekistan	6,990
+124	 Cape Verde	6,942
+125	 Vietnam	6,876
+126	 Angola	6,813
+127	 Congo, Rep.	6,707
+128	 Myanmar	6,285
+129	 Nigeria	5,927
+130	 Nicaragua	5,823
+131	 Samoa	5,737
+132	 Moldova	5,657
+133	 Tonga	5,605
+134	 Honduras	5,499
+135	 Pakistan	5,354
+136	 Timor-Leste	5,008
+137	 Ghana	4,605
+138	 Sudan	4,580
+139	 Bangladesh	4,561
+140	 Mauritania	4,474
+141	 Cambodia	4,010
+142	 Zambia	3,997
+143	 Lesotho	3,869
+144	 Côte d'Ivoire	3,857
+145	 Tuvalu	3,804
+146	 Papua New Guinea	3,803
+147	 Kyrgyzstan	3,652
+148	 Djibouti	3,567
+149	 Kenya	3,496
+150	 Marshall Islands	3,436
+151	 Micronesia	3,392
+152	 Cameroon	3,359
+153	 Tanzania	3,283
+154	 São Tomé and Príncipe	3,208
+155	 Tajikistan	3,131
+156	 Vanuatu	2,780
+157	   Nepal	2,690
+158	 Senegal	2,678
+159	 Chad	2,433
+160	 Uganda	2,352
+161	 Yemen	2,300
+162	 Zimbabwe	2,277
+163	 Benin	2,219
+164	 Mali	2,169
+165	 Solomon Islands	2,145
+166	 Ethiopia	2,113
+167	 Rwanda	2,081
+168	 Guinea	2,039
+169	 Kiribati	1,958
+170	 Afghanistan	1,889
+171	 Burkina Faso	1,884
+172	 Haiti	1,810
+173	 Guinea-Bissau	1,806
+174	 Sierra Leone	1,791
+175	 Gambia, The	1,686
+176	 South Sudan	1,503
+177	 Togo	1,612
+178	 Comoros	1,560
+179	 Madagascar	1,554
+180	 Eritrea	1,434
+181	 Mozambique	1,266
+182	 Malawi	1,172
+183	 Niger	1,153
+184	 Liberia	867
+185	 Burundi	808
+186	 Congo, Dem. Rep.	785
+187	 Central African Republic	681
